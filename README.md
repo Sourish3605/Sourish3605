@@ -7,23 +7,22 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Sourish Narendrula</h1>
-<h3 align="center">🚀 AI/ML Enthusiast | Deep Learning Developer | Content Creator</h3>
+<h3 align="center">🚀 AI/ML Enthusiast | Deep Learning Developer</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=60&lines=Machine+Learning+Engineer;Deep+Learning+Specialist;Computer+Vision+Enthusiast;NLP+Explorer;AI+Content+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=60&lines=Machine+Learning+Engineer;Deep+Learning+Specialist;AI+Explorer" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate AI/ML enthusiast with a strong focus on deep learning, computer vision, and natural language processing. I create educational content on platforms like YouTube, Medium, and Instagram to make AI/ML concepts accessible to everyone.
+I'm a passionate AI/ML enthusiast with a strong focus on deep learning. I explore cutting-edge machine learning technologies and contribute to innovative projects.
 
-- 🎯 **Specialization**: Deep Learning, Computer Vision, NLP, Reinforcement Learning
-- 🎬 **Content Creator** on YouTube, Medium, and Instagram
-- 💼 **Currently exploring**: Advanced LLMs, Generative AI, AI Agents
+- 🎯 **Specialization**: Deep Learning, Reinforcement Learning
+- 💼 **Currently exploring**: Advanced LLMs, AI Agents, ML Engineering
 - 🌱 **Always learning**: Latest trends in AI/ML industry
-- ⚡ **Passion**: Making complex AI concepts simple and understandable
+- ⚡ **Passion**: Building intelligent solutions with machine learning
 - 🤝 **Open to**: Collaborations, discussions, and knowledge sharing
 
 ---
@@ -34,7 +33,6 @@ I'm a passionate AI/ML enthusiast with a strong focus on deep learning, computer
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
@@ -42,8 +40,6 @@ I'm a passionate AI/ML enthusiast with a strong focus on deep learning, computer
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=flat-square)
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-412991?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-00D9FF?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-FF0000?style=flat-square)
 
 ### 🔧 Tools & Platforms
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
@@ -79,9 +75,7 @@ I'm a passionate AI/ML enthusiast with a strong focus on deep learning, computer
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
 | **VoyageAI** | AI-powered travel recommendation system | Python, ML |
-| **Generative AI 2025** | Comprehensive generative AI implementations | Python, TensorFlow, PyTorch |
 | **NUTRIFIT AI Agent** | Personalized nutrition AI agent | Python, NLP, ML |
-| **AIML Repository** | Collection of AI/ML algorithms and implementations | Python, Scikit-learn |
 
 ---
 

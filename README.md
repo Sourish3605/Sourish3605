@@ -74,26 +74,6 @@ I'm a passionate AI/ML enthusiast with a strong focus on deep learning, computer
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sourish3605&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Sourish3605&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourish3605&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sourish3605&theme=onedark&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="Trophy" />
-</div>
-
----
-
 ## 📂 Featured Projects
 
 | Project | Description | Tech Stack |
